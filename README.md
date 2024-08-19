@@ -46,5 +46,5 @@ For a customer with 10 non-flight bonus transactions, 1 online purchase in the p
 The case study demonstrates the steps involved in building a logistic regression model and a neural network model, comparing their performance and refining the model to improve sensitivity and better align with the firm's objectives.
 
 ### Files Included
-- `EastWestAirlinesNN.xls`: Dataset used for the analysis.
-- `Final_Report.pdf`: Detailed report on the logistic regression and neural network model development and results.
+- `EastWestAirlinesNN_HK`: Dataset used for the analysis.
+- `Project_Report.pdf`: Detailed report on the logistic regression and neural network model development and results.
