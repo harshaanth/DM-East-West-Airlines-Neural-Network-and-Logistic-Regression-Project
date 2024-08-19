@@ -8,7 +8,7 @@ The project includes the following steps:
 2. Comparison of Model Performance between Logistic regression model and Neural Networks model
 3. Case Study Analysis
 
-## 1. Logistic Regression Model Estimation
+## Logistic Regression Model Estimation
 
 ### Logistic Regression Results
 - **Selected Variables:** `Bonus_trans`, `Online_12`, `Any_cc_miles_12mo`
@@ -23,7 +23,7 @@ The project includes the following steps:
     - New Overall Accuracy: 50.75%
     - New Sensitivity: 74.15%
 
-## 2. Neural Network Model Estimation
+## Neural Network Model Estimation
 
 ### Model Parameters
 - **Hidden Layer:** 1 hidden layer with 5 nodes
@@ -40,7 +40,7 @@ The project also includes a diagram representing the structure of the neural net
 ### Prediction Example
 For a customer with 10 non-flight bonus transactions, 1 online purchase in the past 12 months, and no miles added on any credit card type within the past 12 months, the model predicts the likelihood of purchasing Telcom service as part of the direct mail campaign.
 
-## 3. Case Study Analysis
+## Case Study Analysis
 
 ### Summary
 The case study demonstrates the steps involved in building a logistic regression model and a neural network model, comparing their performance and refining the model to improve sensitivity and better align with the firm's objectives.
