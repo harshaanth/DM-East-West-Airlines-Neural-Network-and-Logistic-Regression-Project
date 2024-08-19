@@ -40,6 +40,10 @@ The project also includes a diagram representing the structure of the neural net
 ### Prediction Example
 For a customer with 10 non-flight bonus transactions, 1 online purchase in the past 12 months, and no miles added on any credit card type within the past 12 months, the model predicts the likelihood of purchasing Telcom service as part of the direct mail campaign.
 
+## Comparison
+
+The lift chart for the logistic regression model (Model 1) shows a steeper slope than the lift chart for the neural network model (Model 2) throughout most of the decile range. This means that the logistic regression model is better at identifying the decile groups that are most likely to contain the desired outcome.
+
 ## Case Study Analysis
 
 ### Summary
